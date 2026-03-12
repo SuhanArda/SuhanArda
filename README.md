@@ -43,7 +43,7 @@ Currently, I serve as a **Research Intern**, where I engineer control algorithms
 
 ### 📫 Let's Connect
 - **Portfolio:** [suhanarda.com](https://suhanarda.com)
-- **LinkedIn:** [Suhan Arda Öner](https://www.linkedin.com/in/suhanarda/)
+- **LinkedIn:** [Suhan Arda Öner](https://www.linkedin.com/in/suhan-arda-öner/)
 - **Email:** [suhanarda@hotmail.com](mailto:suhanarda@hotmail.com)
 
 ---

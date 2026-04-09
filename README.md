@@ -63,14 +63,13 @@ Specialized   Haptics · Big Data · Data automation
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuhanArda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanArda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhanArda&theme=react-dark&hide_border=true&area=true&color=00d9ff&line=e94560&point=00d9ff" alt="Contribution graph" />
 
 <img src="https://streak-stats.demolab.com/?user=SuhanArda&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhanArda&theme=react-dark&hide_border=true&area=true&color=00d9ff&line=e94560&point=00d9ff" alt="Contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhanArda&theme=tokyonight" alt="Most Commit Language" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SuhanArda&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhanArda&theme=tokyonight" alt="GitHub Summary Card" />
 
 </div>
 
